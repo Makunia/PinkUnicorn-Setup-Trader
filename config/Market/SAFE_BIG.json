@@ -1,0 +1,32 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Safes",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 25.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "expansionsafelarge",
+      "MaxPriceThreshold": 16000,
+      "MinPriceThreshold": 8000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionsafemedium",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

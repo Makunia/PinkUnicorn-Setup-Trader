@@ -1,0 +1,165 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_PISTOLS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "colt1911",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2400,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_1911_7rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "deagle",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 5400,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_deagle_9rnd"
+      ],
+      "Variants": [
+        "deagle_gold"
+      ]
+    },
+    {
+      "ClassName": "deagle_gold",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 9999,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_deagle_9rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "derringer_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2400,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "derringer_grey",
+        "derringer_pink"
+      ]
+    },
+    {
+      "ClassName": "engraved1911",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 2400,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_1911_7rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_m9",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1750,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_expansion_m9_15rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "fnx45",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1750,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_fnx45_15rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "glock19",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_glock_15rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "longhorn",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "magnum",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2800,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mkii",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_mkii_10rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "p1",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_p1_8rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

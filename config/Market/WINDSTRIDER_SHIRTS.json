@@ -1,0 +1,93 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Shirts",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "layered_shirt_base",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "layered_shirt_cheburashka",
+        "layered_shirt_white",
+        "layered_shirt_courage",
+        "layered_shirt_lily"
+      ]
+    },
+    {
+      "ClassName": "medium_sleeves_shirt",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "medium_sleeves_shirt_red",
+        "medium_sleeves_shirt_blue"
+      ]
+    },
+    {
+      "ClassName": "military_sweater",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "military_sweater_red",
+        "military_sweater_blue",
+        "military_sweater_green",
+        "military_sweater_white",
+        "military_sweater_black"
+      ]
+    },
+    {
+      "ClassName": "poncho_green",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "poncho_red",
+        "poncho_black",
+        "poncho_blackandwhite",
+        "poncho_blackandwhite",
+        "poncho_blackandwhite2",
+        "poncho_red_checkered",
+        "poncho_blue_checkered",
+        "poncho_yellow_checkered",
+        "poncho_white",
+        "poncho_brown"
+      ]
+    },
+    {
+      "ClassName": "winter_parka_base",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "winter_parka_white",
+        "winter_parka_green"
+      ]
+    }
+  ]
+}
