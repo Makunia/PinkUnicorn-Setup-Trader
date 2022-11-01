@@ -1,0 +1,43 @@
+{
+  "m_Version": 9,
+  "DisplayName": "BANDITTRADER",
+  "MinRequiredHumanity": -2147483648,
+  "MaxRequiredHumanity": -1000,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "SNAFU_WEAPONS",
+    "SNAFU_MAGS",
+    "OPTICS:3",
+    "BAYONETS:3",
+    "BUTTSTOCKS:3",
+    "MUZZLES:3",
+    "RUSSIANWEAPON",
+    "AMMO",
+    "AMMO_BOXES",
+    "BANDIT:2",
+    "DOGTAG:0",
+    "SNAFU_AMMO",
+    "SNAFU_EXTRAS:3",
+    "SNAFU_SUPPRESSORS:3",
+    "SNAFU_SCOPES:3",
+    "BANDITVK",
+    "HANDGUARDS:3",
+    "MAGAZINES",
+    "SNAFU_GRIPS:3",
+    "SNAFU_STOCKS:3",
+    "SNAFU_HANDGUARDS:3",
+    "SNAFU_BIPODS:3",
+    "UMBRELLA",
+    "DOGTAG MISC"
+  ],
+  "Items": {
+    "battery9v": 3,
+    "mag_ak74_30rnd": 3,
+    "mag_expansion_vityaz_30rnd": 3,
+    "mag_saiga_8rnd": 3,
+    "mag_vss_10rnd": 3
+  }
+}

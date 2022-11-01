@@ -1,0 +1,30 @@
+{
+  "m_Version": 9,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES",
+  "MinRequiredHumanity": -2147483648,
+  "MaxRequiredHumanity": 2147483647,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "MASKS",
+    "BACKPACKS",
+	"WINDSTRIDER_BAGS",
+    "ARMBANDS",
+    "EYEWEAR",
+    "HELMETS",
+    "BANDANAS",
+    "CAPS",
+    "HATS_AND_HOODS",
+	"WINDSTRIDER_HEADGEAR",
+    "HOLSTERS_AND_POUCHES",
+    "BELTS",
+    "GHILLIES",
+    "VESTS",
+    "GLOVES",
+	"WINDSTRIDER_GLOVES",
+    "GUITAR"
+  ],
+  "Items": {}
+}

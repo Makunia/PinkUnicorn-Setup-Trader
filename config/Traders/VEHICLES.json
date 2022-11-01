@@ -1,0 +1,16 @@
+{
+  "m_Version": 9,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLES",
+  "MinRequiredHumanity": -2147483648,
+  "MaxRequiredHumanity": 2147483647,
+  "TraderIcon": "Car",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "CARS",
+    "VEHICLE_PARTS:3",
+    "BATTERIES:3"
+  ],
+  "Items": {}
+}

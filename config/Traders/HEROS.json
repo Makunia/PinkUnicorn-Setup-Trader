@@ -1,0 +1,18 @@
+{
+  "m_Version": 9,
+  "DisplayName": "HERO TRADER",
+  "MinRequiredHumanity": 1000,
+  "MaxRequiredHumanity": 2147483647,
+  "TraderIcon": "Deliver",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "HERO:2",
+    "DOGTAG:0",
+    "MMG_GEAR",
+    "MMG_GEAR_PATCHES",
+    "DOGTAG MISC"
+  ],
+  "Items": {}
+}

@@ -1,0 +1,23 @@
+{
+  "m_Version": 9,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+  "MinRequiredHumanity": -2147483648,
+  "MaxRequiredHumanity": 2147483647,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "BOOTS_AND_SHOES",
+    "COATS_AND_JACKETS",
+    "PANTS_AND_SHORTS",
+    "BLOUSES_AND_SUITS",
+    "SHIRTS_AND_TSHIRTS",
+    "SKIRTS_AND_DRESSES",
+	"WINDSTRIDER_SHOES",
+	"WINDSTRIDER_SHIRTS",
+	"WINDSTRIDER_RANDOM",
+	"WINDSTRIDER_PANTS"	
+  ],
+  "Items": {}
+}

@@ -1,0 +1,16 @@
+{
+  "m_Version": 9,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_BOATS",
+  "MinRequiredHumanity": -2147483648,
+  "MaxRequiredHumanity": 2147483647,
+  "TraderIcon": "Boat",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "BOATS",
+    "VEHICLE_PARTS:3",
+    "BATTERIES:3"
+  ],
+  "Items": {}
+}
