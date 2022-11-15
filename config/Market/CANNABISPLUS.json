@@ -1,0 +1,86 @@
+{
+  "m_Version": 12,
+  "DisplayName": "CANNABIS PLUS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "cp_cannabisbagskunk",
+      "MaxPriceThreshold": 6500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 200,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cannabisbagblue",
+        "cp_cannabisbagkush",
+        "cp_cannabisbagstardawg",
+        "cp_cannabisbagfuture",
+        "cp_cannabisbags1",
+        "cp_cannabisbagnomad",
+        "cp_cannabisbagblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_cannabisbrickskunk",
+      "MaxPriceThreshold": 26000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 20000,
+      "MinStockThreshold": 20000,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cannabisbrickblue",
+        "cp_cannabisbrickkush",
+        "cp_cannabisbrickstardawg",
+        "cp_cannabisbrickfuture",
+        "cp_cannabisbricks1",
+        "cp_cannabisbricknomad",
+        "cp_cannabisbrickblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_cannabisseedspackskunk",
+      "MaxPriceThreshold": 6500,
+      "MinPriceThreshold": 6500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cannabisseedspackblue",
+        "cp_cannabisseedspackkush",
+        "cp_cannabisseedspackstardawg",
+        "cp_cannabisseedspackfuture",
+        "cp_cannabisseedspacks1",
+        "cp_cannabisseedspacknomad",
+        "cp_cannabisseedspackblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_cigarettepack_cannabisskunk",
+      "MaxPriceThreshold": 11500,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 200,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cigarettepack_cannabisblue",
+        "cp_cigarettepack_cannabiskush",
+        "cp_cigarettepack_cannabisstardawg",
+        "cp_cigarettepack_cannabisfuture",
+        "cp_cigarettepack_cannabiss1",
+        "cp_cigarettepack_cannabisnomad",
+        "cp_cigarettepack_cannabisblackfrost"
+      ]
+    }
+  ]
+}
